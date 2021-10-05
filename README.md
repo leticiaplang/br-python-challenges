@@ -1,2 +1,22 @@
-# Desafios com Python 3
-Nesta pasta estaremos colocando alguns desafios à serem resolvidos com Python. Abra-os no Jupyter notebook ou Google Colab, resolva-os e nos envie para revisão a partir de um pull request para a pasta da turma.
+## Desafios com Python Awari 
+
+Antes de iniciar o curso de Data Science na Awari, defini que seria relevante para mim não somente conhecer a área, como também ter experiência em uma linguagem de programação. 
+
+Obviamente, acabei optando pela linguagem mais utilizada no momento: o Python 🐴🥥
+
+##
+
+Nesse repositório possuo desafios do curso da Awari, os quais resolvi via google colab.
+
+Estruturei os documentos contendo
+1. Informação do desafio e resolução sugerida
+2. Estrutura lógica que montei para buscar o resultado
+3. Passo a passo utilizado caixas de texto com explicações acessíveis a todos os níveis seguida do código
+
+##
+
+Fiquem super à vontade para sugerirem outras maneiras de se realizar, correções ou outras ideias.
+Eu, na verdade, estaria extremamente grata por isso tudo hahaha 
+
+
+Ótima semana, pessoal 😃
